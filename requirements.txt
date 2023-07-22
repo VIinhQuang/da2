@@ -3,4 +3,5 @@ numpy
 cmake
 dlib
 opencv-python-headless
-playsound
+flask
+flask-cors
