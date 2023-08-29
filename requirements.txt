@@ -3,5 +3,10 @@ numpy
 cmake
 dlib
 opencv-python-headless
+netifaces
+shutil
+subprocess
+socket
+Cell
 flask
 flask-cors
